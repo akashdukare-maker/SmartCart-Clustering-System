@@ -107,7 +107,18 @@ Each row represents a **customer profile** with multiple attributes:
 - 📒 Jupyter Notebook  
 
 ---
+# ⚙️ Feature Engineering
 
+Several new features were created to better understand customer behaviour.
+
+- **Age** – calculated from year of birth
+- **Customer Tenure** – number of days since the customer joined SmartCart
+- **Total Spending** – total amount spent across product categories
+- **Total Children** – combined number of children and teenagers
+- **Living With** – grouped customers into `Alone` and `Partner`
+- **Education** – simplified education categories
+
+---
 # 📊 Data Analysis & Model Evaluation
 
 ## 🔍 Pairplot (Feature Relationships)
