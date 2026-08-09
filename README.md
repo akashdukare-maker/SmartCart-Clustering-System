@@ -80,20 +80,7 @@ Each row represents a **customer profile** with multiple attributes:
 
 ---
 
-## 🔬 Project Workflow
-
-```mermaid
-graph TD
-A[Raw Dataset] --> B[Data Cleaning]
-B --> C[Feature Engineering]
-C --> D[Scaling]
-D --> E[Clustering Model]
-E --> F[Evaluation]
-F --> G[Visualization]
-G --> H[Business Insights]
----
 # 📊 Data Analysis & Model Evaluation
-
 
 ## 🔍 Pairplot (Feature Relationships)
 
