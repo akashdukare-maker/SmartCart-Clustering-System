@@ -23,7 +23,7 @@ Currently, the platform uses **generic marketing strategies**, leading to:
 -  Inability to identify high-value or churn-prone customers  
 
 👉 **Goal:**  
-Build an **AI-powered customer segmentation system** using **unsupervised machine learning** to group customers into meaningful clusters. :contentReference[oaicite:1]{index=1}  
+Build an **AI-powered customer segmentation system** using **unsupervised machine learning** to group customers into meaningful clusters. 
 
 ---
 
