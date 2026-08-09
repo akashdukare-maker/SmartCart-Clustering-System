@@ -26,6 +26,34 @@ Currently, the platform uses **generic marketing strategies**, leading to:
 Build an **AI-powered customer segmentation system** using **unsupervised machine learning** to group customers into meaningful clusters. 
 
 ---
+# 🔄 Workflow
+
+```text
+Customer Dataset
+       ↓
+Data Cleaning
+       ↓
+Feature Engineering
+       ↓
+Outlier Removal
+       ↓
+Categorical Encoding
+       ↓
+Feature Scaling
+       ↓
+PCA Dimensionality Reduction
+       ↓
+Cluster Evaluation
+       ↓
+K-Means Clustering
+       ↓
+Agglomerative Clustering
+       ↓
+Customer Segmentation
+       ↓
+Business Insights
+```
+
 
 ## 🎯 Objectives
 
