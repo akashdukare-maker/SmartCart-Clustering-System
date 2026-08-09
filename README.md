@@ -205,3 +205,11 @@ Each row represents a **customer profile** with multiple attributes:
 - Helps identify premium customers  
 
 ---
+# 📊 Cluster Insights
+
+| Cluster | Description |
+|--------|------------|
+| 🟢 Cluster 0 | High-value customers |
+| 🔵 Cluster 1 | Moderate spenders |
+| 🟡 Cluster 2 | Low engagement |
+| 🔴 Cluster 3 | Churn risk |
