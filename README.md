@@ -15,7 +15,7 @@
 
 ## 📌 Problem Statement
 
-SmartCart is a growing e-commerce platform with **2240 customers and 22 features**, including demographics, purchasing behavior, and engagement data. :contentReference[oaicite:0]{index=0}  
+SmartCart is a growing e-commerce platform with **2240 customers and 22 features**, including demographics, purchasing behavior, and engagement data. 
 
 Currently, the platform uses **generic marketing strategies**, leading to:
 -  Inefficient marketing campaigns  
