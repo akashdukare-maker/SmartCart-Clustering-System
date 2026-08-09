@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="images/B.png" alt="SmartCart - E-Commerce Customer Segmentation System" width="100%">
+  <img src="images/banner.png" alt="SmartCart - E-Commerce Customer Segmentation System" width="100%">
 </p>
 
 
