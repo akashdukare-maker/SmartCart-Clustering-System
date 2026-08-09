@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=SmartCart+Customer+Segmentation+System;AI+%7C+Machine+Learning+%7C+Clustering;Transforming+Data+into+Business+Insights" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=SmartCart%20AI%20Platform&fontSize=40&fontColor=ffffff&desc=E-Commerce%20Customer%20Segmentation%20%7C%20AI%20Analytics&descAlign=50&descAlignY=70"/>
 </p>
 
 <h1 align="center">🛒 SmartCart Customer Segmentation System</h1>
