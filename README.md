@@ -252,14 +252,54 @@ Several new features were created to better understand customer behaviour.
 | 🔵 Cluster 1 | Moderate spenders |
 | 🟡 Cluster 2 | Low engagement |
 | 🔴 Cluster 3 | Churn risk |
+# 🏆 Final Results
 
-# 🔄 Workflow
+The final outcome of the SmartCart project is a **4-segment customer classification** based on customer behaviour.
 
-```mermaid
-graph LR
-A[Raw Data] --> B[Cleaning]
-B --> C[Feature Engineering]
-C --> D[Scaling]
-D --> E[KMeans]
-E --> F[Clusters]
-F --> G[Insights]
+The final customer profiles identified in the analysis are:
+
+### 🔴 Cluster 0 — Family / Discount-Oriented Customers
+
+- More children
+- Lower spending
+- Partner households
+- Higher website visits
+- More price-sensitive behaviour
+
+### 🔵 Cluster 1 — High-Value Customers
+
+- High income
+- High spending
+- Strong purchasing behaviour
+- Valuable customer segment
+
+### 🟡 Cluster 2 — Lower-Value Customers
+
+- Low income
+- Low spending
+- Lower overall customer value
+- Suitable for targeted engagement strategies
+
+### 🟢 Cluster 3 — High-Value / Premium Customers
+
+- High income
+- High spending
+- Strong purchasing behaviour
+- Represents an important premium customer segment
+  # 💡 Business Impact
+
+-  Personalized marketing  
+-  Increased revenue  
+-  Better customer retention  
+-  Data-driven decisions
+
+  # 👩‍💻 Author
+
+**Akash Dukare**
+
+Electronics & Communication Engineering Student
+
+**Skills:** Python | AI/ML | Data Analytics
+
+---
+
