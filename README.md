@@ -213,3 +213,14 @@ Each row represents a **customer profile** with multiple attributes:
 | 🔵 Cluster 1 | Moderate spenders |
 | 🟡 Cluster 2 | Low engagement |
 | 🔴 Cluster 3 | Churn risk |
+
+# 🔄 Workflow
+
+```mermaid
+graph LR
+A[Raw Data] --> B[Cleaning]
+B --> C[Feature Engineering]
+C --> D[Scaling]
+D --> E[KMeans]
+E --> F[Clusters]
+F --> G[Insights]
