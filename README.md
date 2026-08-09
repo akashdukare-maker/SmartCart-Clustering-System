@@ -18,9 +18,9 @@
 SmartCart is a growing e-commerce platform with **2240 customers and 22 features**, including demographics, purchasing behavior, and engagement data. :contentReference[oaicite:0]{index=0}  
 
 Currently, the platform uses **generic marketing strategies**, leading to:
-- ❌ Inefficient marketing campaigns  
-- ❌ Poor customer retention  
-- ❌ Inability to identify high-value or churn-prone customers  
+-  Inefficient marketing campaigns  
+-  Poor customer retention  
+-  Inability to identify high-value or churn-prone customers  
 
 👉 **Goal:**  
 Build an **AI-powered customer segmentation system** using **unsupervised machine learning** to group customers into meaningful clusters. :contentReference[oaicite:1]{index=1}  
